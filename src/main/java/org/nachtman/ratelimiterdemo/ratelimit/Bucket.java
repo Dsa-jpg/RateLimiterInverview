@@ -1,4 +1,4 @@
-package org.nachtman.ratelimiterdemo.ratelimiter;
+package org.nachtman.ratelimiterdemo.ratelimit;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
